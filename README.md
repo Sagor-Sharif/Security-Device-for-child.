@@ -1,2 +1,3 @@
 # Security-Device-for-child.
 Wearable tracking gadget that school-age children can wear is the topic of this paper. It doesn't need any pricy technology to operate.. This technology is usable by persons of all educational levels. It has got two buttons one is SMS  button and another is Call button.
+The alert button allows the child to notify their parents of an emergency and provide their current location.This device solves the issue by utilizing GSM technology.Parents do not need to submit any special code to the device to determine the child's location's latitude and longitude.If a child is in any emergency situation and wants his/her parents to know their current exact location. If a child feels uneasy, there are two methods to let the parents know.
